@@ -1,0 +1,48 @@
+.entete{
+    height: 10%;
+}
+.lehero{ 
+    height: 400px;
+    background-image: url("/ressources/media/steckseign.jpg");
+    background-size: cover;
+    background-position: center; 
+    border: 1px solid #ff9000;
+    position: relative;  
+    top: 5px
+}
+
+.herodesc {
+    position: relative; 
+    color: #ff9000;
+    text-align: center;   
+    top: 20%;
+}
+.herop{
+    text-align: center;
+    color: red;
+    font-size: 400;
+}
+h2{
+    margin-top: 5px;
+    color: #ff9000;
+}
+h3{
+    color: #ff9000;
+}
+h4{
+    color: #ff9000;
+}
+h5{
+    color: #ff9000;
+}
+hr{
+    color: #ff9000;
+}
+.txtcard{
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+}
+.textapropos{
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+}
